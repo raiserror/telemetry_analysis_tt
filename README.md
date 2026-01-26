@@ -1,6 +1,6 @@
-# Telemetry analysis
+# ___Telemetry analysis (Test task)___
 
-desktop-приложение для анализа и визуализации данных телеметрии.
+Desktop-приложение для анализа и визуализации данных телеметрии.
 
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
 ![Version](https://img.shields.io/badge/Version-0.2_Pre--Alpha-orange)
